@@ -9,7 +9,7 @@ const Header = () => {
       <nav>
         <Link href="/">Home</Link>
         <Link href="/about">About</Link>
-        <Link href="/bikes">Bikes</Link>
+        <Link href="/bike">Bikes</Link>
         <Link href="/contact">Contact</Link>
         <FaShoppingCart //style={{color: 'white', fontSize: '20px'}} 
         />

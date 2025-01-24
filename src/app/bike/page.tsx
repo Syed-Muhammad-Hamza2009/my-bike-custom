@@ -5,7 +5,7 @@ import React from 'react'
 const page = () => {
 
 const bikesData =[
-    { id: 1, name: 'BMW-NINE T', price: 1500000, description: 'Luxry Bike', image: '/bmw-ninet.png' },
+    { id: 1, name: 'BMW-NINE T', price: 1500000, description: 'Luxry Bike', image:  'bmw-ninet.png' },
     { id: 2, name: 'BMW', price: 800000, description: 'Luxry Bike', image: '/bmw.png' },
     { id: 3, name: 'DUKE', price: 110000, description: 'Luxry Bike', image: '/duke.png' },
     { id: 4, name: 'HARLEY DAVIDSON', price: 50000, description: 'Affordable and reliable', image: '/harleydavidson.png' },
